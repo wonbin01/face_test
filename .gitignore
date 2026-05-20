@@ -5,6 +5,7 @@ images/
 uploads/
 dataset/
 models/
+weights/
 *.onnx
 *.pth
 *.pt
