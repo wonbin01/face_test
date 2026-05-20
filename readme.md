@@ -11,7 +11,7 @@ git clone
 2. 
 
 ```jsx
-Notion에 정리된 사진들 프로젝트 root에 images 폴더 생성 후 삽입
+https://www.notion.so/one-e/AI-detection-jupyter-PoC-3659b99c216f802599eadacc80934194 참고
 ```
 
 3. 
